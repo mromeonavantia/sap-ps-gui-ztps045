@@ -1,0 +1,8 @@
+# Git ignore file for SAP ABAP Project
+*.tmp
+*.bak
+*.orig
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
